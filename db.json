@@ -1,0 +1,316 @@
+[
+    {
+        "_id": "63e37d15d6e32bcc8c0ac2a4",
+        "index": 0,
+        "guid": "2cdcf352-04c8-4c94-8720-7b8aee4a1e65",
+        "isActive": false,
+        "balance": "$3,225.05",
+        "age": 36,
+        "eyeColor": "brown",
+        "name": "Dianna Pratt",
+        "gender": "female",
+        "company": "INTERGEEK",
+        "email": "diannapratt@intergeek.com",
+        "phone": "+1 (994) 511-3812",
+        "address": "366 Indiana Place, Kersey, Virginia, 1889",
+        "registered": "2022-09-02T08:51:09",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Barrett Alston"
+            }
+        ],
+        "favoriteFruit": "apple"
+    },
+    {
+        "_id": "63e37d155653b3647c0a3a72",
+        "index": 1,
+        "guid": "cbb559ab-abe6-4930-ad90-cee762d7cebb",
+        "isActive": false,
+        "balance": "$1,019.72",
+        "age": 38,
+        "eyeColor": "blue",
+        "name": "Wendy Coleman",
+        "gender": "female",
+        "company": "MAXIMIND",
+        "email": "wendycoleman@maximind.com",
+        "phone": "+1 (892) 584-2243",
+        "address": "505 Robert Street, Kaka, Idaho, 3592",
+        "registered": "2014-03-05T05:24:58",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Burch Wooten"
+            },
+            {
+                "id": 1,
+                "name": "Rosalie Fleming"
+            },
+            {
+                "id": 2,
+                "name": "Wilkinson Cooke"
+            },
+            {
+                "id": 3,
+                "name": "Alyson Talley"
+            },
+            {
+                "id": 4,
+                "name": "Araceli Giles"
+            }
+        ],
+        "favoriteFruit": "apple"
+    },
+    {
+        "_id": "63e37d15537405e2d600a8b1",
+        "index": 2,
+        "guid": "34f3b4f6-a3da-478d-ab13-f7b9207e3175",
+        "isActive": true,
+        "balance": "$2,504.57",
+        "age": 36,
+        "eyeColor": "green",
+        "name": "Luna Mccoy",
+        "gender": "male",
+        "company": "VORATAK",
+        "email": "lunamccoy@voratak.com",
+        "phone": "+1 (822) 411-3439",
+        "address": "691 Hazel Court, Garberville, Louisiana, 8377",
+        "registered": "2021-08-09T06:23:43",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Rachelle Savage"
+            }
+        ],
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "63e37d1556f0977b1d03ced3",
+        "index": 3,
+        "guid": "fd91462f-35d1-4a03-a99d-c1a4a3f3fa63",
+        "isActive": true,
+        "balance": "$2,632.24",
+        "age": 36,
+        "eyeColor": "green",
+        "name": "Karla Sharpe",
+        "gender": "female",
+        "company": "ZANILLA",
+        "email": "karlasharpe@zanilla.com",
+        "phone": "+1 (940) 457-2612",
+        "address": "411 Dikeman Street, Hegins, California, 7112",
+        "registered": "2018-08-13T04:52:52",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Cecelia Bates"
+            },
+            {
+                "id": 1,
+                "name": "Alison Walters"
+            },
+            {
+                "id": 2,
+                "name": "Lamb Melendez"
+            },
+            {
+                "id": 3,
+                "name": "Alicia Conrad"
+            },
+            {
+                "id": 4,
+                "name": "Brandi Suarez"
+            }
+        ],
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "63e37d1585b1413473826166",
+        "index": 4,
+        "guid": "45f0ca5a-7984-4b17-b06e-920f5ebb6c0b",
+        "isActive": true,
+        "balance": "$3,521.16",
+        "age": 29,
+        "eyeColor": "blue",
+        "name": "Erica Lott",
+        "gender": "female",
+        "company": "DIGIFAD",
+        "email": "ericalott@digifad.com",
+        "phone": "+1 (809) 519-3725",
+        "address": "305 Cheever Place, Deercroft, Wyoming, 6949",
+        "registered": "2015-05-15T09:41:02",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Christa Thompson"
+            },
+            {
+                "id": 1,
+                "name": "Jewel Banks"
+            },
+            {
+                "id": 2,
+                "name": "Mckenzie Bass"
+            },
+            {
+                "id": 3,
+                "name": "Betty Patton"
+            }
+        ],
+        "favoriteFruit": "apple"
+    },
+    {
+        "_id": "63e37d15b992e63a3e316cb8",
+        "index": 5,
+        "guid": "12e2bd15-b497-4f0d-8d79-9e68b32a4908",
+        "isActive": false,
+        "balance": "$3,371.99",
+        "age": 24,
+        "eyeColor": "blue",
+        "name": "Jill Hurst",
+        "gender": "female",
+        "company": "FRENEX",
+        "email": "jillhurst@frenex.com",
+        "phone": "+1 (964) 498-2228",
+        "address": "634 Church Lane, Wright, Palau, 2923",
+        "registered": "2022-01-28T01:52:34",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Lauren Payne"
+            },
+            {
+                "id": 1,
+                "name": "Leigh Mcdowell"
+            },
+            {
+                "id": 2,
+                "name": "Selena Vang"
+            },
+            {
+                "id": 3,
+                "name": "Ashlee Newton"
+            }
+        ],
+        "favoriteFruit": "apple"
+    },
+    {
+        "_id": "63e37d150c7e49eb691cbbe7",
+        "index": 6,
+        "guid": "b734a1ec-7fac-4c85-9fb5-80080f162f1d",
+        "isActive": false,
+        "balance": "$3,294.39",
+        "age": 22,
+        "eyeColor": "blue",
+        "name": "Jennifer Travis",
+        "gender": "female",
+        "company": "ACCEL",
+        "email": "jennifertravis@accel.com",
+        "phone": "+1 (973) 447-2439",
+        "address": "808 Rockaway Parkway, Manchester, Oregon, 4823",
+        "registered": "2022-11-19T12:19:45",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Richmond Dejesus"
+            },
+            {
+                "id": 1,
+                "name": "Annmarie Rose"
+            },
+            {
+                "id": 2,
+                "name": "Campos Roach"
+            }
+        ],
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "63e37d15e0c6c70d1f1df228",
+        "index": 7,
+        "guid": "cf1a142c-9157-44db-babc-2301e1cb4bc5",
+        "isActive": false,
+        "balance": "$1,599.76",
+        "age": 21,
+        "eyeColor": "green",
+        "name": "Estrada Boyer",
+        "gender": "male",
+        "company": "RUGSTARS",
+        "email": "estradaboyer@rugstars.com",
+        "phone": "+1 (828) 545-2629",
+        "address": "137 Fillmore Place, Groveville, Massachusetts, 6410",
+        "registered": "2018-12-14T03:40:07",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Marks Gallegos"
+            }
+        ],
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "63e37d15e3c92a1a896dacee",
+        "index": 8,
+        "guid": "5712f783-0736-4bae-8363-eeafd52bd068",
+        "isActive": false,
+        "balance": "$1,600.12",
+        "age": 20,
+        "eyeColor": "brown",
+        "name": "Carol Poole",
+        "gender": "female",
+        "company": "TERASCAPE",
+        "email": "carolpoole@terascape.com",
+        "phone": "+1 (884) 420-3036",
+        "address": "864 Clifton Place, Orin, Michigan, 5830",
+        "registered": "2016-01-18T04:28:50",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Sellers Chase"
+            },
+            {
+                "id": 1,
+                "name": "Noreen Ramirez"
+            },
+            {
+                "id": 2,
+                "name": "Walton Rutledge"
+            }
+        ],
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "63e37d1587ae45bfcbf1dde4",
+        "index": 9,
+        "guid": "8b4e7d35-41c2-4190-93eb-e51b7db29747",
+        "isActive": false,
+        "balance": "$3,856.53",
+        "age": 27,
+        "eyeColor": "brown",
+        "name": "Potts Jordan",
+        "gender": "male",
+        "company": "METROZ",
+        "email": "pottsjordan@metroz.com",
+        "phone": "+1 (964) 416-2938",
+        "address": "820 Madison Place, Bynum, Northern Mariana Islands, 3685",
+        "registered": "2020-01-26T04:24:25",
+        "friends": [
+            {
+                "id": 0,
+                "name": "Lela Drake"
+            },
+            {
+                "id": 1,
+                "name": "Brianna Zimmerman"
+            },
+            {
+                "id": 2,
+                "name": "May Donovan"
+            },
+            {
+                "id": 3,
+                "name": "Talley Romero"
+            }
+        ],
+        "favoriteFruit": "strawberry"
+    }
+]
